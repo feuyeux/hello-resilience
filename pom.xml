@@ -10,7 +10,7 @@
         <resilience4j.version>2.2.0</resilience4j.version>
         <spring-boot.version>3.3.4</spring-boot.version>
         <micrometer.version>1.13.3</micrometer.version>
-        <vavr.version>0.10.4</vavr.version>
+        <vavr.version>0.10.5</vavr.version>
         <lombok.version>1.18.34</lombok.version>
         <byte-buddy.version>1.15.1</byte-buddy.version>
         <maven-compiler-plugin.version>3.13.0</maven-compiler-plugin.version>
